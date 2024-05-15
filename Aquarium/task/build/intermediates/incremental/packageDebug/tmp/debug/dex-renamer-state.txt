@@ -1,0 +1,4 @@
+#Wed May 15 18:14:27 EDT 2024
+base.0=/home/rennie/AndroidStudioProjects/Aquarium/Aquarium/task/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

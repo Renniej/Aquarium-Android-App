@@ -1,0 +1,7 @@
+org.hyperskill.aquarium.test.Aquarium-task-androidTest-0 /home/rennie/AndroidStudioProjects/Aquarium/Aquarium/task/build/generated/res/resValues/androidTest/debug
+org.hyperskill.aquarium.test.Aquarium-task-androidTest-1 /home/rennie/AndroidStudioProjects/Aquarium/Aquarium/task/build/generated/res/rs/androidTest/debug
+org.hyperskill.aquarium.test.Aquarium-task-mergeDebugAndroidTestResources-2 /home/rennie/AndroidStudioProjects/Aquarium/Aquarium/task/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+org.hyperskill.aquarium.test.Aquarium-task-mergeDebugAndroidTestResources-3 /home/rennie/AndroidStudioProjects/Aquarium/Aquarium/task/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+org.hyperskill.aquarium.test.Aquarium-task-merged_res-4 /home/rennie/AndroidStudioProjects/Aquarium/Aquarium/task/build/intermediates/merged_res/debugAndroidTest
+org.hyperskill.aquarium.test.Aquarium-task-androidTest-5 /home/rennie/AndroidStudioProjects/Aquarium/Aquarium/task/src/androidTest/res
+org.hyperskill.aquarium.test.Aquarium-task-androidTestDebug-6 /home/rennie/AndroidStudioProjects/Aquarium/Aquarium/task/src/androidTestDebug/res

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/rennie/.gradle/daemon/8.6/org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/activity_main.xml",
+        "source": "/home/rennie/.gradle/daemon/8.6/org.hyperskill.aquarium.Aquarium-task-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/activity_main.xml",
+        "source": "org.hyperskill.aquarium.Aquarium-task-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rennie/.gradle/daemon/8.6/org.hyperskill.aquarium.Aquarium-task-mergeDebugResources-20:/layout/card_view_template.xml",
+        "source": "/home/rennie/.gradle/daemon/8.6/org.hyperskill.aquarium.Aquarium-task-main-23:/layout/card_view_template.xml"
+    }
+]
